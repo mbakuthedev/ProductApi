@@ -1,1 +1,3 @@
 # ProductApi
+Here i want to create a product Api in .net core...
+In the later days ill be making a front end web app in Angular that'll consume the Api 
